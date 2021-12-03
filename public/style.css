@@ -21,3 +21,11 @@ table {
 .active {
 	background: red;
 }
+
+.active3 {
+	background: blueviolet;
+}
+
+.active2 {
+	background: green;
+}

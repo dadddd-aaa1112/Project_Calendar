@@ -1,7 +1,7 @@
 export default {
-	entry: './app.js',
+	entry: './public/app.js',
 	output: {
-		filename: './bundle.js',
+		filename: './dist/bundle.js',
 	},
 	devServer: {
 		port: 9000,
